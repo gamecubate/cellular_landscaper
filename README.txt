@@ -1,3 +1,3 @@
-Conway's Game of Life written for Impact and modified from the previous (life) version by adding trails that fade out over time.
-Latest deployed version and comments on http://www.gamecubate.com/playground/life_documented.
+HTML5 implementation of a "Conway's Game of Life" based cellular landscaper created with the Impact Javascript Game Engine.
+Latest deployed version and comments on http://gamecubate.com/playground/cellular_landscaper/.
 Reach me by email (alexr @ ...) or via the Impact forums (alexandre).
