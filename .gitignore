@@ -18,7 +18,12 @@ xcuserdata
 CVS
 design/
 tools/
-lib/
 LICENSE.TXT
 weltmeister.html
 index.html
+lib/impact/
+lib/weltmeister/
+lib/plugins/impact-splash-loader.js
+lib/plugins/outlinedfont.js
+lib/plugins/symbols/symbols.js
+game.min.js
